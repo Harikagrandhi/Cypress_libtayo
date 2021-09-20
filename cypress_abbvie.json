@@ -1,0 +1,5 @@
+{
+  "pageLoadTimeout": 1500000,
+  "responseTimeout": 500000,
+  "eyesTimeout": 1000000000000
+}
